@@ -12,9 +12,7 @@
 - Tambahkan fungsi baru, seperti `whileLoop()` di `ControlFlow`, untuk latihan.
 - Gunakan VS Code dengan Extension Pack for Java dan pastikan JDK (misalnya, Java 17) sudah terkonfigurasi dengan benar.
 
-Jika ada error seperti `UnsupportedClassVersionError`, pastikan JDK dan JRE menggunakan versi yang sama (lihat penjelasan sebelumnya).
-
-Semoga penjelasan ini membantu memahami setiap file dan konsep OOP! Jika ingin tambahan atau modifikasi, silakan beri tahu.
+Semoga penjelasan ini membantu memahami setiap file dan konsep OOP!
 
 ---
 
