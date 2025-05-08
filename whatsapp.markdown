@@ -1,4 +1,4 @@
-## Urutan Pembelajaran
+# Urutan Pembelajaran
 
 1. **ControlFlow.java**: Mulai dari sini untuk memahami alur kontrol (dasar).
 2. **DataStructure.java**: Lanjutkan ke struktur data setelah paham alur kontrol (menengah).
@@ -6,7 +6,7 @@
 
 **Main.java**: Akhiri dengan file ini untuk melihat semua konsep bekerja bersama (master).
 
-## Tips untuk Belajar
+# Tips untuk Belajar
 
 - Baca komentar dalam kode untuk memahami setiap baris.
 - Coba ubah nilai (misalnya, `nilai` di `ControlFlow`) untuk melihat efeknya.
@@ -23,7 +23,7 @@ Berikut adalah penjelasan semua file Java yang telah dibuat, diurutkan dari kons
 
 ---
 
-## 1. ControlFlow.java (Tingkat Dasar)
+# 1. ControlFlow.java (Tingkat Dasar)
 
 **Tujuan**:\
 File `ControlFlow.java` mengajarkan konsep **alur kontrol**, yaitu cara mengatur jalannya program menggunakan pengondisian (`if-else`, `switch`) dan perulangan (`for`). Ini adalah materi dasar yang wajib dipahami sebelum belajar topik lain.
@@ -45,7 +45,7 @@ File ini adalah yang paling dasar karena semua program membutuhkan alur kontrol.
 
 ---
 
-## 2. DataStructure.java (Tingkat Menengah)
+# 2. DataStructure.java (Tingkat Menengah)
 
 **Tujuan**:\
 File `DataStructure.java` mengajarkan cara menyimpan dan mengelola data menggunakan **array** dan **ArrayList**. Ini adalah langkah menengah karena struktur data lebih kompleks daripada alur kontrol, tetapi masih relatif mudah dipahami.
@@ -68,7 +68,7 @@ File ini lebih kompleks dari `ControlFlow.java` karena melibatkan struktur data 
 
 ---
 
-## 3. ObjectOriented.java (Tingkat Lanjutan)
+# 3. ObjectOriented.java (Tingkat Lanjutan)
 
 **Tujuan**:\
 File `ObjectOriented.java` mengajarkan prinsip-prinsip **OOP** seperti **enkapsulasi**, **pewarisan**, dan **polimorfisme**. Sebagai kelas abstrak, file ini berfungsi sebagai blueprint untuk kelas lain, sehingga lebih cocok untuk pelajar tingkat lanjutan.
@@ -91,7 +91,7 @@ File ini lebih kompleks karena melibatkan abstraction dan mempersiapkan pelajar 
 
 ---
 
-## 4. OOPExample.java (Tingkat Lanjutan)
+# 4. OOPExample.java (Tingkat Lanjutan)
 
 **Tujuan**:\
 File `OOPExample.java` adalah subclass dari `ObjectOriented.java` yang menunjukkan bagaimana **pewarisan** bekerja dalam OOP. File ini melengkapi `ObjectOriented.java` dengan implementasi konkret.
@@ -112,7 +112,7 @@ File ini berada di tingkat lanjutan bersama `ObjectOriented.java` karena membutu
 
 ---
 
-## 5. Main.java (Tingkat Master)
+# 5. Main.java (Tingkat Master)
 
 **Tujuan**:\
 File `Main.java` adalah kelas utama yang menguji semua kelas sebelumnya (`ControlFlow`, `DataStructure`, `ObjectOriented`, `OOPExample`). File ini menunjukkan bagaimana kelas-kelas tersebut bekerja bersama, menjadikannya tingkat **master** karena menggabungkan semua konsep.
